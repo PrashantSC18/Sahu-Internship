@@ -1,0 +1,72 @@
+.blue{
+    background-color: rgb(4, 138, 190);
+}
+
+.borders{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.search{
+    background-image:
+    linear-gradient(to right, rgba(44, 173, 224, 0.7), rgba(44, 173, 224, 0.7)),
+    url('Dentist.jpg');
+    padding-left: 100px;
+    height: 400px;
+    width: 1200px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.Name{
+    width: 500px; 
+    height: 50px; 
+    padding-left: 10px; 
+    margin-right: 97px;
+}
+
+.ShortBox{
+    width: 238px; 
+    height: 50px; 
+    padding-left: 10px; 
+    margin-right: 20px;
+}
+
+.Message{
+    width: 500px; 
+    height: 100px; 
+    padding-left: 10px; 
+    margin-right: 97px;
+}
+
+.GrayBorder{
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom-color: gray;
+}
+
+.BlueButton{
+    background-color: rgb(6, 184, 255); 
+    color: white; 
+    width: 200px; 
+    height: 50px;
+    border-radius: 5px;
+    border-color:rgb(6, 184, 255);
+}
+
+.getup{
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    font-size: 36px;
+    font-weight: bolder;
+    background-color: rgb(6, 184, 255);
+    color: white;
+    border-color: rgb(6, 184, 255);
+    bottom: 20px;
+    right: 80px;
+    position: fixed;
+    z-index: 99;
+}
